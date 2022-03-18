@@ -1,7 +1,7 @@
 <h1>"Hello World!" 👋</h1>
 <p>My name is <strong>Vlad</strong> (with a last name too long to remember), and I'm a Full Stack Web Developer, with an interest for automation.</p>
 
-<p>My previous career in real estate has taught me a great deal in working with clients (real estate sales) and clients of clients (property management). I'm grateful for these skills that I'm able to bring to the table when creating a solution for users.</p>
+<p>My previous career in real estate has taught me a great deal in working with clients (real estate sales) and clients of clients (property management). I bring these skills to the table when creating a solution for users, which include but are not limited to: empathy, active listening, critical thinking, and creative problem solving.</p>
 
 <h2>Projects</h2>
 <p>Other than a practise project called <a href="https://yelpcamp.ca" target="_blank">Yelpcamp</a> and my personal site, <a href="https://veekay.ca" target="_blank">VeeKay</a>, my biggest pride and joy to this day is <a href="https://propsked.ca">PropSked</a>. It's a real estate showing automation (currently in beta as we run tests) that will save landlords a lot time from having to coordinate showings with every single person. Check it out! Due to the sensitive nature of the information that is stored, I have decided against sharing the project on Github, but am happy to discuss the project in-depth with employers.</p>
