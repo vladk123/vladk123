@@ -1,4 +1,4 @@
-<h1>"Hello World!" 👋</h1>
+<h1>Full Stack Web Developer</h1>
 <p>My name is <strong>Vlad</strong> (with a last name too long to remember), and I'm a Full Stack Web Developer, with an interest for automation.</p>
 
 <p>My previous career in real estate has taught me a great deal in working with clients (real estate sales) and clients of clients (property management). I bring these skills to the table when creating a solution for users, which include but are not limited to: empathy, active listening, critical thinking, and creative problem solving.</p>
