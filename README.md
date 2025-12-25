@@ -4,6 +4,7 @@
 <p>My previous career in real estate has taught me a great deal in working with clients (real estate sales) and clients of clients (property management). I bring these skills to the table when creating a solution for users, which include but are not limited to: empathy, active listening, critical thinking, and creative problem solving.</p>
 
 <h2>Projects</h2>
+
 - <a href="https://propsked.ca">PropSked</a> - real estate automation (currently in beta but used by property managers) that saves landlords times when coordinating showings with people. This repo is not visible on my Github profile due to sensitive information being stored.
 - <a href="https://camppics.ca" target="_blank">CampPics</a> - campers can share and view campsites from real people. This would solve the problem of booking a campsite "blindly" due to provincial and federal parks sometimes posting incomplete images of the sites.
 - <a href="https://veekay.ca" target="_blank">VeeKay</a> - personal website.
