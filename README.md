@@ -1,10 +1,13 @@
 <h1>Full Stack Web Developer</h1>
-<p>My name is <strong>Vlad</strong> (with a last name too long to remember), and I'm a Full Stack Web Developer, with an interest for automation.</p>
+<p>My name is <strong>Vlad</strong> (with a last name too long to remember), and I'm a Full Stack Web Developer, with an interest in automation, analytics, UX, and property management.</p>
 
 <p>My previous career in real estate has taught me a great deal in working with clients (real estate sales) and clients of clients (property management). I bring these skills to the table when creating a solution for users, which include but are not limited to: empathy, active listening, critical thinking, and creative problem solving.</p>
 
 <h2>Projects</h2>
-<p>Other than a practise project called <a href="https://yelpcamp.ca" target="_blank">Yelpcamp</a> and my personal site, <a href="https://veekay.ca" target="_blank">VeeKay</a>, my biggest project to this day is <a href="https://propsked.ca">PropSked</a>. It's a real estate showing automation (currently in beta as we run tests) that will save landlords a lot time from having to coordinate showings with every single person. Check it out! Due to the sensitive nature of the information that is stored, I have decided against sharing the project on Github, but am happy to discuss the project in-depth with employers and partners.</p>
+- <a href="https://propsked.ca">PropSked</a> - real estate automation (currently in beta but used by property managers) that saves landlords times when coordinating showings with people. This repo is not visible on my Github profile due to sensitive information being stored.
+- <a href="https://camppics.ca" target="_blank">CampPics</a> - campers can share and view campsites from real people. This would solve the problem of booking a campsite "blindly" due to provincial and federal parks sometimes posting incomplete images of the sites.
+- <a href="https://veekay.ca" target="_blank">VeeKay</a> - personal website.
+- Check my personal website for work projects (the ones that are public-facing).
 
 <h2>Skills</h2>
 
